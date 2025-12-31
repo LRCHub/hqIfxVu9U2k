@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "最高×サマー!!!!!!",
+  "base_artist": "ピスパレ",
+  "createdAt": "2025-12-31T06:06:19.291895Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最高×サマー!!!!!!",
+      "artist": "ピスパレ",
+      "has_synced": false,
+      "path": "select/pl_01_最高×サマー!!!!!!_ピスパレ.txt"
+    }
+  ]
+}
